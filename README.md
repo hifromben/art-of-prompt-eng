@@ -1,6 +1,10 @@
-Author : Cognitive Class AI
+# The Art of Prompt Engineering
 
-Selamat datang di pembelajaran project pertama saya di GitHub! Proyek ini merupakan langkah awal saya dalam dunia AI. Di sini, saya mencoba untuk memahami dan mengimplementasikan konsep dasar AI yaitu The Art of Prompt Engineering.
+## Authors
 
-Nama : Beni Wijaya
+- Cognitive Class Ai
+
+## Mentee Info
+
+Name : Beni Wijaya
 Program : IBM Advanced AI
