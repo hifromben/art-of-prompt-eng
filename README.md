@@ -6,5 +6,10 @@
 
 ## Mentee Info
 
-Name : Beni Wijaya
-Program : IBM Advanced AI
+- Name : Beni Wijaya
+- Program : IBM Advanced AI
+
+## Tech Stack
+
+- Jupyter Notebook
+- Python
